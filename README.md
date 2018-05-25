@@ -1,0 +1,2 @@
+# mathfortyeight
+Mathhammer scripts
