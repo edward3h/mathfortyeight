@@ -1,0 +1,33 @@
+{
+  "name": "mathfortyeight",
+  "version": "0.0.1",
+  "description": "Mathhammer scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward3h/mathfortyeight.git"
+  },
+  "author": "Edward Harman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edward3h/mathfortyeight/issues"
+  },
+  "homepage": "https://github.com/edward3h/mathfortyeight#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "printf": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
